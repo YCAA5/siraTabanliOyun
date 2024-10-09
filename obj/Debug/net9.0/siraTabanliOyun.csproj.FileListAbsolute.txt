@@ -1,0 +1,14 @@
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\bin\Debug\net9.0\siraTabanliOyun.exe
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\bin\Debug\net9.0\siraTabanliOyun.deps.json
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\bin\Debug\net9.0\siraTabanliOyun.runtimeconfig.json
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\bin\Debug\net9.0\siraTabanliOyun.dll
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\bin\Debug\net9.0\siraTabanliOyun.pdb
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\siraTabanliOyun.GeneratedMSBuildEditorConfig.editorconfig
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\siraTabanliOyun.AssemblyInfoInputs.cache
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\siraTabanliOyun.AssemblyInfo.cs
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\siraTabanliOyun.csproj.CoreCompileInputs.cache
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\siraTabanliOyun.dll
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\refint\siraTabanliOyun.dll
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\siraTabanliOyun.pdb
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\siraTabanliOyun.genruntimeconfig.cache
+D:\- Murat Abbaslı\Projeler\C#\oyunDenemesi\siraTabanliOyun\obj\Debug\net9.0\ref\siraTabanliOyun.dll
